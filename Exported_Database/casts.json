@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "644dabfbe3b4b9f872945894"
+  },
+  "name": "Aamir Khan",
+  "about": "(pronounced [ˈaːmɪr xaːn]; born 14 March 1965) is an Indian actor, film director, and producer who works in Hindi films. Through his career spanning over 30 years, Khan has established himself as one of the most notable actors of Indian cinema.[1][2] Khan is the recipient of numerous awards, including nine Filmfare Awards, four National Film Awards, and an AACTA Award, with one of his film productions also receiving an Academy Award nomination.",
+  "cast_img": "Aamir_Khan_(Berlin_Film_Festival_2011)_1682811899516.jpg",
+  "created_at": {
+    "$date": "2023-04-29T23:44:59.538Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644dac49e3b4b9f872945896"
+  },
+  "name": "Arbaaz Khan",
+  "about": "(born 4 August 1967) is an Indian actor and film producer who primarily works in Hindi cinema, in addition to Telugu, Urdu and Malayalam cinema. Since making his debut in 1996, he has acted in many leading and supporting roles. He ventured into film production in Bollywood film industry, with Arbaaz Khan Productions, launched with Dabangg (2010), in which he starred as the younger brother of his real-life brother Salman Khan",
+  "cast_img": "330px-Arbaaz_Khan_at_his_birthday_bash_at_Su_Casa_1682811977803.jpg",
+  "created_at": {
+    "$date": "2023-04-29T23:46:17.808Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644dac8be3b4b9f872945898"
+  },
+  "name": "Abhay Deol",
+  "about": "(born 15 March 1976)[1] is an Indian actor and producer who is known for his work in Hindi films alongside Kannada and Tamil cinema. Born in the Deol family, he made his on-screen debut in 2005 with Imtiaz Ali's romantic comedy Socha Na Tha. After the modest success of his debut, Deol was praised for his performances in films such as Manorama Six Feet Under (2007) and Oye Lucky! Lucky Oye! (2008).",
+  "cast_img": "Abhay_Deol_in_2021_1682828410836.jpg",
+  "created_at": {
+    "$date": "2023-04-29T23:47:23.049Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644dace9e3b4b9f87294589a"
+  },
+  "name": "Aamir Bashir",
+  "about": "Bashir was born and raised in Kashmir, the son of the retired Chief Justice of Jammu High Court. He is a graduate of St. Stephen's College, University of Delhi. His acting career began with a small role in the Bhanwar TV series, and several TV advertisements, which led to his film debut, Split Wide Open (1999) and the telefilm, Doordarshan Srinagar. He appeared in the 2003 film Armaan.[2] ",
+  "cast_img": "Aamir_Bashir_1682828546801.jpg",
+  "created_at": {
+    "$date": "2023-04-29T23:48:57.312Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644dad19e3b4b9f87294589c"
+  },
+  "name": "Alok Nath",
+  "about": "(born 10 July 1956) is an Indian actor known for his work in Hindi cinema and television.[6] He made his film debut with the 1982 English (and Hindi) film Gandhi, directed by Sir Richard Attenborough, which won an Oscar Academy Award for Best Picture that year.[7] He appeared in the soap opera, Buniyaad, which took the country by storm in 1986. ",
+  "cast_img": "330px-AlokNath_1682812185563.jpg",
+  "created_at": {
+    "$date": "2023-04-29T23:49:45.573Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644db1ebe3b4b9f87294589e"
+  },
+  "name": "Alok Nath",
+  "about": "(born 10 July 1956) is an Indian actor known for his work in Hindi cinema and television.[6] He made his film debut with the 1982 English (and Hindi) film Gandhi, directed by Sir Richard Attenborough, which won an Oscar Academy Award for Best Picture that year.[7] He appeared in the soap opera, Buniyaad, which took the country by storm in 1986. ",
+  "cast_img": "330px-AlokNath_1682813419533.jpg",
+  "created_at": {
+    "$date": "2023-04-30T00:10:19.571Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644db238e3b4b9f8729458a0"
+  },
+  "name": "Aman Verma",
+  "about": "(born 11 October 1971) is an Indian television anchor and actor. As an anchor, Verma is best known for hosting the game show Khullja Sim Sim on Star Plus from 2001 to 2004. His other hosting duties were with Mini Mathur in the first season of Indian Idol on Sony TV and Zee TV's Zee Cinestars. He has also acted in Bollywood movies. Verma was also seen in Life OK's show Hum Ne Li Hai- Shapath as ACP Diler Kumar. He also participated in the ninth season of Indian reality series Bigg Boss.",
+  "cast_img": "Aman_Verma_in_2019_1682813496225.jpg",
+  "created_at": {
+    "$date": "2023-04-30T00:11:36.231Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644db275e3b4b9f8729458a2"
+  },
+  "name": "Aanjjan Srivastav",
+  "about": "(born 2 June 1948) is an Indian film, television and stage actor, associated with Indian People's Theatre Association (IPTA) in Mumbai of which he remained Vice-President for several years. Outside theatre, he is best known as a character actor in Marathi and Hindi films, most notably, Mira Nair's Salaam Bombay!, Mississippi Masala and Anupam Mittal's Flavors and Bollywood films like Gol Maal, Bemisal, Khuda Gawah, Kabhi Haan Kabhi Naa and Pukar.",
+  "cast_img": "Aanjjan_Srivastav_1682813557875.jpg",
+  "created_at": {
+    "$date": "2023-04-30T00:12:37.933Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644db2dde3b4b9f8729458a4"
+  },
+  "name": "Arjun Kapoor",
+  "about": "(born 26 June 1985) is an Indian actor who works in Hindi films.[2][3] Born to the Surinder Kapoor family, he is the son of film producer Boney Kapoor and Mona Shourie. Kapoor made his acting debut in 2012 with the drama Ishaqzaade which was commercially successful and earned him several awards, including the Stardust Award for Superstar of Tomorrow – Male.",
+  "cast_img": "330px-Arjun_Kapoor_at_film_promotions_of_Mubarakan_1682813661013.jpg",
+  "created_at": {
+    "$date": "2023-04-30T00:14:21.017Z"
+  },
+  "__v": 0
+}]

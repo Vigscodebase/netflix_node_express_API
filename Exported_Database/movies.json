@@ -1,0 +1,227 @@
+[{
+  "_id": {
+    "$oid": "644ff0acf3bba13769daa998"
+  },
+  "cat_id": {
+    "$oid": "64497fdafff09a45a9aa90e5"
+  },
+  "sub_cat_id": {
+    "$oid": "644ccecf2628595963772982"
+  },
+  "name": "Triptych",
+  "movie_img": "Triptych_1682960556364.jpg",
+  "description": "After learning she was separated at birth from her two identical sisters, Rebecca embarks on a perilous journey to uncover the truth about her origins.",
+  "releaseDate": "Release date: 2023-02-22",
+  "duration": "three hours",
+  "rating": "80%",
+  "cast_id": [
+    {
+      "$oid": "644dabfbe3b4b9f872945894"
+    },
+    {
+      "$oid": "644dac8be3b4b9f872945898"
+    },
+    {
+      "$oid": "644dad19e3b4b9f87294589c"
+    },
+    {
+      "$oid": "644dac49e3b4b9f872945896"
+    }
+  ],
+  "created_at": {
+    "$date": "2023-05-01T17:02:36.377Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644ff19bf3bba13769daa99a"
+  },
+  "cat_id": {
+    "$oid": "64497fdafff09a45a9aa90e5"
+  },
+  "sub_cat_id": {
+    "$oid": "644ccf4c2628595963772988"
+  },
+  "name": "Cobra Kai",
+  "movie_img": "Cobra Kai_1682960795285.jpg",
+  "description": "This Karate Kid sequel series picks up 30 years after the events of the 1984 All Valley Karate Tournament and finds Johnny Lawrence on the hunt for redemption by reopening the infamous Cobra Kai karate dojo. This reignites his old rivalry with the successful Daniel LaRusso, who has been working to maintain the balance in his life without mentor Mr. Miyagi.",
+  "releaseDate": "Release date: 2018-05-02",
+  "duration": "three hours",
+  "rating": "82%",
+  "cast_id": [
+    {
+      "$oid": "644dad19e3b4b9f87294589c"
+    },
+    {
+      "$oid": "644db238e3b4b9f8729458a0"
+    },
+    {
+      "$oid": "644db275e3b4b9f8729458a2"
+    },
+    {
+      "$oid": "644db2dde3b4b9f8729458a4"
+    }
+  ],
+  "created_at": {
+    "$date": "2023-05-01T17:06:35.345Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644ff225f3bba13769daa99c"
+  },
+  "cat_id": {
+    "$oid": "64497ffffff09a45a9aa90eb"
+  },
+  "sub_cat_id": {
+    "$oid": "644ccf4c2628595963772988"
+  },
+  "name": "The Rough Diamonds",
+  "movie_img": "Rough Diamonds_1682968831030.jpg",
+  "description": "When a prodigal son sends his family's empire into crushing debt, his estranged brother returns to Antwerp's diamond district to pick up the pieces.",
+  "releaseDate": "Release date: 2023-04-21",
+  "duration": "three hours",
+  "rating": "61%",
+  "cast_id": [
+    {
+      "$oid": "644dad19e3b4b9f87294589c"
+    },
+    {
+      "$oid": "644db238e3b4b9f8729458a0"
+    },
+    {
+      "$oid": "644db2dde3b4b9f8729458a4"
+    }
+  ],
+  "created_at": {
+    "$date": "2023-05-01T17:08:53.884Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644ff2c4f3bba13769daa99e"
+  },
+  "cat_id": {
+    "$oid": "644b2323e1f3217add8b629b"
+  },
+  "sub_cat_id": {
+    "$oid": "644cf96ac8570919c1b0a79c"
+  },
+  "name": "Elite",
+  "movie_img": "Elite_1682961092131.jpg",
+  "description": "When three working class kids enroll in the most exclusive school in Spain, the clash between the wealthy and the poor students leads to tragedy.",
+  "releaseDate": "Release date: 2018-10-05",
+  "duration": "three hours",
+  "rating": "81%",
+  "cast_id": [
+    {
+      "$oid": "644dace9e3b4b9f87294589a"
+    },
+    {
+      "$oid": "644db2dde3b4b9f8729458a4"
+    },
+    {
+      "$oid": "644db2dde3b4b9f8729458a4"
+    }
+  ],
+  "created_at": {
+    "$date": "2023-05-01T17:11:32.207Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644ff33ff3bba13769daa9a0"
+  },
+  "cat_id": {
+    "$oid": "64497feffff09a45a9aa90e7"
+  },
+  "sub_cat_id": {
+    "$oid": "644ccecf2628595963772982"
+  },
+  "name": "The Witcher",
+  "movie_img": "The Witcher_1682968869095.jpg",
+  "description": "Geralt of Rivia, a mutated monster-hunter for hire, journeys toward his destiny in a turbulent world where people often prove more wicked than beasts.",
+  "releaseDate": "Release date: 2019-12-20",
+  "duration": "three hours",
+  "rating": "82%",
+  "cast_id": [
+    {
+      "$oid": "644dace9e3b4b9f87294589a"
+    },
+    {
+      "$oid": "644db238e3b4b9f8729458a0"
+    },
+    {
+      "$oid": "644db2dde3b4b9f8729458a4"
+    },
+    {
+      "$oid": "644db2dde3b4b9f8729458a4"
+    }
+  ],
+  "created_at": {
+    "$date": "2023-05-01T17:13:35.878Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645015e9290454f57fdceda8"
+  },
+  "cat_id": {
+    "$oid": "64497feffff09a45a9aa90e7"
+  },
+  "sub_cat_id": {
+    "$oid": "644ccecf2628595963772982"
+  },
+  "name": "Test Movie",
+  "movie_img": "0005_1682970089113.jpg",
+  "description": "Geralt of Rivia, a mutated monster-hunter for hire, journeys toward his destiny in a turbulent world where people often prove more wicked than beasts.",
+  "releaseDate": "Release date: 2019-12-20",
+  "duration": "three hours",
+  "rating": "82%",
+  "cast_id": [
+    {
+      "$oid": "644dace9e3b4b9f87294589a"
+    },
+    {
+      "$oid": "644db238e3b4b9f8729458a0"
+    },
+    {
+      "$oid": "644db2dde3b4b9f8729458a4"
+    },
+    {
+      "$oid": "644db2dde3b4b9f8729458a4"
+    }
+  ],
+  "created_at": {
+    "$date": "2023-05-01T19:41:29.126Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64501604290454f57fdcedaa"
+  },
+  "cat_id": {
+    "$oid": "64497feffff09a45a9aa90e7"
+  },
+  "sub_cat_id": {
+    "$oid": "644ccecf2628595963772982"
+  },
+  "name": "Default Movie",
+  "movie_img": "default.png",
+  "description": "Default Description",
+  "releaseDate": "Release date: 2019-12-20",
+  "duration": "three hours",
+  "rating": "82%",
+  "cast_id": [
+    {
+      "$oid": "644dace9e3b4b9f87294589a"
+    },
+    {
+      "$oid": "644db238e3b4b9f8729458a0"
+    }
+  ],
+  "created_at": {
+    "$date": "2023-05-01T19:41:56.551Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "64497fdafff09a45a9aa90e5"
+  },
+  "name": "Movie",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+  "updated_at": {
+    "$date": "2023-04-26T19:47:38.456Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64497feffff09a45a9aa90e7"
+  },
+  "name": "TV Shows",
+  "description": "Vignesh ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod Vignesh incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+  "updated_at": {
+    "$date": "2023-04-26T19:47:59.896Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64497ffffff09a45a9aa90eb"
+  },
+  "name": "Series",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+  "updated_at": {
+    "$date": "2023-04-26T19:48:15.267Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644b2323e1f3217add8b629b"
+  },
+  "name": "Serials",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+  "updated_at": {
+    "$date": "2023-04-28T01:36:35.966Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644b2450e1f3217add8b629e"
+  },
+  "name": "Reality Shows",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+  "updated_at": {
+    "$date": "2023-04-28T01:41:36.653Z"
+  },
+  "__v": 0
+}]

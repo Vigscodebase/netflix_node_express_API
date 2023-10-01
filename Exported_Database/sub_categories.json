@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "644ccecf2628595963772982"
+  },
+  "name": "Action & Adventure",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+  "subcat_img": "0002_1682755279275.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644ccf062628595963772984"
+  },
+  "name": "Anime",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+  "subcat_img": "0010_1682764920037.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644ccf3f2628595963772986"
+  },
+  "name": "Children & Family",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+  "subcat_img": "0004_1682755391151.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644ccf4c2628595963772988"
+  },
+  "name": "Sci-Fi",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+  "subcat_img": "0009_1682764842092.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644ccf57262859596377298a"
+  },
+  "name": "Comedies",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+  "subcat_img": "0006_1682755415743.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644cf950c8570919c1b0a79a"
+  },
+  "name": "Horror",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+  "subcat_img": "default.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644cf96ac8570919c1b0a79c"
+  },
+  "name": "Documentry",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+  "subcat_img": "0011_1682766186763.jpg",
+  "__v": 0
+}]
